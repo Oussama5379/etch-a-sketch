@@ -12,3 +12,7 @@ A simple web-based **Etch-A-Sketch** game where users can draw by moving the mou
 
 -HTML ,CSS ,JavaScript
 -DOM Manipulation
+
+## How to play
+
+Play the game here : https://oussama5379.github.io/etch-a-sketch/
