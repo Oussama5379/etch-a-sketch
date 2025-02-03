@@ -11,3 +11,9 @@ for (let i = 0; i < 16; i++) {
 		div.style.height = divWidth.toString() + "px";
 	}
 }
+let children = document.querySelectorAll(".divChild");
+children.forEach((child) => {
+	child.addEventListener("mouseover", () => {
+		child.style.backgroundColor = "peachpuff";
+	});
+});
